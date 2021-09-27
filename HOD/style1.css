@@ -1,0 +1,213 @@
+<style>
+.icon-bar {
+    width: 90px;
+    height:60%;
+}
+.active {
+    background-color: #4CAF50;
+}
+
+.pad1{
+    width: 256px;
+   padding-bottom: 80px;
+    padding-top: 120px;
+    padding-left: 100px;
+    padding-right: 90px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid black;
+	margin-left:100px;
+	margin-top:50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;
+}
+.pad2{
+    width: 256px;
+	padding-bottom: 80px;
+    padding-top: 120px;
+    padding-left: 100px;
+    padding-right: 90px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid black;
+	margin-left:50px;
+	margin-top:50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;
+}
+.pad3{
+    width: 300px;
+    padding: 120px 100px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid white;
+	margin-left:50px;
+	margin-top:50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;
+}
+.pad4{
+    width: 300px;
+    padding: 120px 100px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid white;
+	margin-left:180px;
+	margin-top:50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;
+}
+.pad5{
+    width: 256px;
+    padding-bottom: 80px;
+    padding-top: 120px;
+    padding-left: 100px;
+    padding-right: 90px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid black;
+	margin-left:50px;
+	margin-top: 50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;}
+.pad6{
+    width: 256px;
+    padding-bottom: 80px;
+    padding-top: 120px;
+    padding-left: 100px;
+    padding-right: 90px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid black;
+	margin-left:50px;
+	margin-top:50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;
+}
+.pad7{
+    width: 300px;
+    padding: 120px 100px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid white;
+	margin-left:180px;
+	margin-top:50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;
+}
+.pad8{
+    width: 300px;
+    padding: 120px 100px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid white;
+	margin-left:50px;
+	margin-top: 50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;
+}
+.pad9{
+    width: 300px;
+    padding: 120px 100px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid white;
+	margin-left:50px;
+	margin-top:50px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	background-color:white;
+}
+.pad1 a{
+	margin-left: 100px;
+	margin-top: 50px;
+	color: lightblue;
+}
+#book1
+{
+position: absolute;
+font-size: 20px;
+}
+.pad2 a{
+	margin-left: 100px;
+	margin-top: 50px;
+	color: lightblue;
+}
+#book2
+{
+position: absolute;
+font-size: 20px;
+}
+.pad3 a{
+	margin-left: 100px;
+	margin-top: 50px;
+	color: lightblue;
+}
+#book3
+{
+position: absolute;
+font-size: 20px;
+}
+.pad4 a{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+#book4
+{
+position: absolute;
+font-size: 20px;
+}
+.pad5 a{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+#book5
+{
+position: absolute;
+font-size: 20px;
+}
+.pad6 a{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+#book6
+{
+position: absolute;
+font-size: 20px;
+}
+.pad7 a{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+#book7
+{
+position: absolute;
+font-size: 20px;
+}
+.pad8 a{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+#book8
+{
+position: absolute;
+font-size: 20px;
+}
+.pad9 a{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+#book9
+{
+position: absolute;
+font-size: 20px;
+}
+</style>

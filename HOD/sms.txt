@@ -1,0 +1,1 @@
+http://api.msg91.com/api/v2/sendsms?message=TceFacilityServicesMessageTesting&authkey=253736AW9EGlvEnle5c2468ec&mobiles=6381672980&route=4&sender=TCESMS&country=91
